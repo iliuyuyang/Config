@@ -9,9 +9,6 @@
     "versionCode": "18",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v22.0/stub-release.apk"
   },
-  "uninstaller": {
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.4/Magisk-uninstaller-20210117.zip"
-  },
   "magisk": {
     "version": "22.0",
     "versionCode": "22000",
